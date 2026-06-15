@@ -11,35 +11,35 @@ An intelligent, console-based legal case administration and analytics portal bui
 
 ## 2.2 Problem Statement
 Case Study 189: National Judicial Case Management System
-Introduction
+###Introduction
 Judicial systems handle millions of legal cases annually. Managing case registrations, prioritizing
 urgent matters, scheduling hearings, and retrieving records efficiently are critical for delivering
 timely justice. The National Judicial Case Management System is designed to streamline court
 operations through intelligent case management and legal analytics.
-Objective
+###Objective
 The objective is to manage nationwide case records, prioritize urgent matters, automate
 scheduling, and provide instant access to legal information.
-Industry Context
+###Industry Context
 Courts process diverse case types, including criminal, civil, constitutional, and commercial
 disputes. Efficient case management improves transparency and reduces delays.
-Case Registration Using Queue
+###Case Registration Using Queue
 Newly filed cases enter a Queue and are processed in filing order, ensuring fairness and
 transparency.
-Urgent Matter Handling Using Priority Queue
+###Urgent Matter Handling Using Priority Queue
 Emergency cases, bail applications, and constitutional matters are prioritized using a Priority
 Queue.
-Case Retrieval Using Binary Search
+###Case Retrieval Using Binary Search
 Case records are stored in sorted databases, enabling rapid retrieval through Binary Search.
-Legal Precedent Analysis Using Graphs
+###Legal Precedent Analysis Using Graphs
 Judicial citations form a graph structure where cases are nodes and citations are edges. Graph
 analysis identifies influential judgments and precedent relationships.
-Appeal Tracking Using DFS
+###Appeal Tracking Using DFS
 DFS traces appeal histories from lower courts to higher courts, providing complete legal case
 journeys.
-Deliverables
+###Deliverables
 The system provides digital court dashboards, automated hearing scheduling, legal analytics,
 precedent discovery, appeal tracking, and case search portals.
-Conclusion
+###Conclusion
 The National Judicial Case Management System demonstrates how Queue, Priority Queue,
 Binary Search, Graphs, and DFS can modernize judicial administration and improve access to
 justice.
