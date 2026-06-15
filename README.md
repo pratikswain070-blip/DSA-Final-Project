@@ -308,3 +308,6 @@ Appeal Journey: 101 -> 201 -> 301 -> 401 -> END
 
 ## 2.12 Conclusion
 The National Judicial Case Management System (NJCMS) illustrates how fundamental data structures and algorithms—including queues, priority heaps, binary search, and directed graphs—can be successfully deployed to solve administrative bottlenecks in public systems. The solution increases transparency, enforces precedence validity, and allows swift, secure case journey auditing.
+
+## Github Repo Link
+https://github.com/pratikswain070-blip/DSA-Final-Project
