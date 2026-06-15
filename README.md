@@ -291,7 +291,13 @@ Appeal Journey: 101 -> 201 -> 301 -> 401 -> END
 ---
 
 ## 2.10 Screenshots
-![alt text](<Screenshot 2026-06-15 at 8.49.59 PM.png>) ![alt text](<Screenshot 2026-06-15 at 8.50.57 PM.png>) ![alt text](<Screenshot 2026-06-15 at 8.52.34 PM.png>) ![alt text](<Screenshot 2026-06-15 at 8.54.36 PM.png>) ![alt text](<Screenshot 2026-06-15 at 8.56.36 PM.png>) ![alt text](<Screenshot 2026-06-15 at 8.57.37 PM.png>)
+<img width="725" height="848" alt="Screenshot 2026-06-15 at 8 49 59 PM" src="https://github.com/user-attachments/assets/2237ab91-73c7-4920-98ef-cc59cf0155c6" />
+<img width="742" height="846" alt="Screenshot 2026-06-15 at 8 50 57 PM" src="https://github.com/user-attachments/assets/c6847a17-d6f1-49b3-b7fc-bcad56bcc5f2" />
+<img width="578" height="841" alt="Screenshot 2026-06-15 at 8 52 34 PM" src="https://github.com/user-attachments/assets/2e2b4be6-d0ba-4afa-8bca-0f7f10f0fbe4" />
+<img width="717" height="769" alt="Screenshot 2026-06-15 at 8 54 36 PM" src="https://github.com/user-attachments/assets/fce672ce-1155-4405-b127-1b4cdc683931" />
+<img width="823" height="811" alt="Screenshot 2026-06-15 at 8 56 36 PM" src="https://github.com/user-attachments/assets/43718ad3-e523-4359-8f81-8bc760fb5ed1" />
+<img width="745" height="805" alt="Screenshot 2026-06-15 at 8 57 37 PM" src="https://github.com/user-attachments/assets/7c4987b6-0d6d-4144-8d87-a56a07597f43" />
+
 
 ## 2.11 Results and Observations
 1. **Effectiveness of Prioritization:** The Priority Queue successfully separated violent crimes and constitutional writ petitions from minor property boundary lawsuits, ensuring judicial dispatchers work on critical files first.
